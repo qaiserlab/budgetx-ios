@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  BudgetX
+//  budgetx
 //
-//  Created by Kabylake on 16/01/24.
+//  Created by Kabylake on 03/02/24.
 //
 
 import UIKit

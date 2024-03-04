@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84232394-8134-4A36-BB0F-3F3C5DE1E905"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7250959-6CC3-498D-8324-D3AE95EBBBE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "budgetx/SliderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "setup(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7250959-6CC3-498D-8324-D3AE95EBBBE5 - 42f0618615d952a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "budgetx.SliderCollectionViewCell.setup(budgetx.SliderItem) -&gt; ()"
+                  moduleName = "budgetx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kabylake/iOS/budgetx/budgetx/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "462">
+               </Location>
+               <Location
+                  uuid = "B7250959-6CC3-498D-8324-D3AE95EBBBE5 - 42f0618615d95340"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "budgetx.SliderCollectionViewCell.setup(budgetx.SliderItem) -&gt; ()"
+                  moduleName = "budgetx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kabylake/iOS/budgetx/budgetx/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "482">
+               </Location>
+               <Location
+                  uuid = "B7250959-6CC3-498D-8324-D3AE95EBBBE5 - 42f0618615d952a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "budgetx.SliderCollectionViewCell.setup(budgetx.SliderItem) -&gt; ()"
+                  moduleName = "budgetx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kabylake/iOS/budgetx/budgetx/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "266">
+               </Location>
+               <Location
+                  uuid = "B7250959-6CC3-498D-8324-D3AE95EBBBE5 - 42f0618615d952a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "budgetx.SliderCollectionViewCell.setup(budgetx.SliderItem) -&gt; ()"
+                  moduleName = "budgetx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kabylake/iOS/budgetx/budgetx/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "229">
+               </Location>
+               <Location
+                  uuid = "B7250959-6CC3-498D-8324-D3AE95EBBBE5 - 42f0618615d952a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "budgetx.SliderCollectionViewCell.setup(budgetx.SliderItem) -&gt; ()"
+                  moduleName = "budgetx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kabylake/iOS/budgetx/budgetx/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
